@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ryu+yeon+ho&fontSize=90)
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ryu+yeon+ho%20render&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryu1104&theme=dark&show_icons=true)
 
