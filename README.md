@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ryu+yeon+ho&fontSize=90)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=ryu+yeon+ho&fontAlign=50&fontSize=50&%z0theme&descAlign=60&descAlignY=50&theme=auto)
-
-
 
  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neosmu&theme=vue)
