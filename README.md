@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryh1104%2Fhit-counter&count_bg=%233CD1BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyu1104&&show_icons=true&theme=tokyonight)
 
 
  ###  Tech Stack 
