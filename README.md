@@ -2,7 +2,6 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neosmu&theme=vue)
  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neosmu&theme=vue)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neosmu&theme=vue)
