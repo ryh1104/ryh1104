@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ryu+yeon+ho&fontSize=90)
 
- <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neosmu&theme=vue)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neosmu&theme=vue)
- <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neosmu&theme=vue)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neosmu&theme=vue&utcOffset=8)
- 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryh1104%2Fhit-counter&count_bg=%233CD1BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
  ###  Tech Stack 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
